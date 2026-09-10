@@ -3,9 +3,6 @@ Building full-stack web applications and improving my Data Structures & Algorith
 
 
 ## 🌐 Socials:
-## 🌐 Socials:
-
-## 🌐 Socials:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranjalnavgale)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-navgale-8b620532b/)
